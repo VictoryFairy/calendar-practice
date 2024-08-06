@@ -6,27 +6,6 @@ const Home = () => {
     <HomeStyle>
       <span>홈</span>
       <span>홈</span>
-      <span>홈</span>
-      <span>홈</span>
-      <span>홈</span>
-      <span>홈</span>
-      <span>홈</span>
-      <span>홈</span>
-      <span>홈</span>
-      <span>홈</span>
-      <span>홈</span>
-      <span>홈</span>
-      <span>홈</span>
-      <span>홈</span>
-      <span>홈</span>
-      <span>홈</span>
-      <span>홈</span>
-      <span>홈</span>
-      <span>홈</span>
-      <span>홈</span>
-      <span>홈</span>
-      <span>홈</span>
-      <span>홈</span>
     </HomeStyle>
   );
 };
