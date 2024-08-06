@@ -3,7 +3,7 @@ import styled from "styled-components";
 const Footer = () => {
   return (
     <FooterStyle>
-      <h1>Footer</h1>
+      <h1>Footer2</h1>
     </FooterStyle>
   );
 };

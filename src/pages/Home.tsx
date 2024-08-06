@@ -5,6 +5,28 @@ const Home = () => {
   return (
     <HomeStyle>
       <span>홈</span>
+      <span>홈</span>
+      <span>홈</span>
+      <span>홈</span>
+      <span>홈</span>
+      <span>홈</span>
+      <span>홈</span>
+      <span>홈</span>
+      <span>홈</span>
+      <span>홈</span>
+      <span>홈</span>
+      <span>홈</span>
+      <span>홈</span>
+      <span>홈</span>
+      <span>홈</span>
+      <span>홈</span>
+      <span>홈</span>
+      <span>홈</span>
+      <span>홈</span>
+      <span>홈</span>
+      <span>홈</span>
+      <span>홈</span>
+      <span>홈</span>
     </HomeStyle>
   );
 };
